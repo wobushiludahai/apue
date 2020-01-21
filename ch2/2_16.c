@@ -1,7 +1,7 @@
 /*
  * @Author: land sea
  * @Date: 2020-01-21 21:03:13
- * @LastEditTime : 2020-01-21 21:23:23
+ * @LastEditTime : 2020-01-21 21:28:58
  * @LastEditors  : Please set LastEditors
  * @Description: 路径名
  * @FilePath: /apue/ch2/2_16.c
@@ -75,5 +75,4 @@ char *path_alloc(size_t *sizep)
         *sizep = size;
     }
     return(ptr);
-
 }
