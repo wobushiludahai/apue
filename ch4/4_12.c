@@ -1,7 +1,7 @@
 /*
  * @Author: land sea
  * @Date: 2020-01-23 18:21:45
- * @LastEditTime : 2020-01-23 18:30:44
+ * @LastEditTime : 2020-01-23 19:24:44
  * @LastEditors  : Please set LastEditors
  * @Description: 使用chmod更改权限
  * @FilePath: /apue/ch4/4_12.c
