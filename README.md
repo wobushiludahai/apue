@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-01-20 17:28:49
- * @LastEditTime : 2020-01-22 11:17:48
+ * @LastEditTime : 2020-01-25 22:23:00
  * @LastEditors  : Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /apue/README.md
@@ -15,3 +15,5 @@
 ## 注意事项
 （1）编译需要加上 -lapue  
 （2）atoi将字符串数转换为整型数  
+（3）gcc -O优化编译  
+
