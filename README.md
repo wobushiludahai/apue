@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-01-20 17:28:49
- * @LastEditTime : 2020-01-25 22:23:00
+ * @LastEditTime : 2020-01-26 21:58:30
  * @LastEditors  : Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /apue/README.md
@@ -9,9 +9,26 @@
 # apue
 ## ch简介
 （1）ch1 UNIX基础知识  
-（2）ch2 UNIX标准及实现
+（2）ch2 UNIX标准及实现  
 （3）ch3 文件I/O  
 （4）ch4 文件和目录
+（5）ch5 标准I/O库  
+（6）ch6 系统数据文件和信息  
+（7）ch7 进程环境  
+（8）ch8 进程控制  
+（9）ch9 进程关系  
+（10）ch10 信号  
+（11）ch11 线程  
+（12）ch12 线程控制  
+（13）ch13 守护进程
+（14）ch14 高级I/O  
+（15）ch15 进程间通信  
+（16）ch16 网络IPC：套接字  
+（17）ch17 高级进程间通信  
+（18）ch18 终端I/O  
+（19）ch19 伪终端  
+（20）ch20 数据库函数库  
+（21）ch21 与网络打印机通信
 ## 注意事项
 （1）编译需要加上 -lapue  
 （2）atoi将字符串数转换为整型数  
