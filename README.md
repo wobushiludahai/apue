@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-01-20 17:28:49
- * @LastEditTime : 2020-01-28 12:31:17
+ * @LastEditTime : 2020-01-30 10:36:26
  * @LastEditors  : Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /apue/README.md
@@ -33,6 +33,8 @@
 （1）编译需要加上 -lapue  
 （2）atoi将字符串数转换为整型数  
 （3）gcc -O优化编译  
-（４）对'pthread_create'未定义的引用，添加　-lapue  
+ (4) 对'pthread_create'未定义的引用，添加　-lapue  
+ (5) strrchr函数：查找字符在指定字符串中从右面开始的第一次出现的位置，如果成功，返回该字符以及其后面的字符，如果失败，则返回 NULL。　　
+
 
 
